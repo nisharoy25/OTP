@@ -1,0 +1,29 @@
+.otp_section {
+    padding-top: 100px;
+}
+
+.otp_container {
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.Otp_card {
+    box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+    width: 450px !important;
+}
+
+.form_input::placeholder{
+    font-size: 14px;
+}
+
+.btnSend {
+    margin: 25px 0 10px 0;
+    background-color: #0C6C6A !important;
+    border-color: #0C6C6A !important;
+}
+
+.btnSend:hover {
+    background-color: #0b5050 !important;
+    border-color: #0b5050 !important;
+}
